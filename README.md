@@ -1,2 +1,2 @@
 # raspberry_pi
- Raspberry Pi DevOp
+Raspberry Pi Smart Home Project
